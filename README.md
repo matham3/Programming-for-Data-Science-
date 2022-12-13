@@ -1,7 +1,6 @@
 Udacity-programming-for-Data-Science-using-Python-Nanodegree
-Created by Saurav Raghuvanshi
-This repository contains projects and practice set for Udacity Programming For Data Science Using Python Nanodegree.
 
+This repository contains projects and practice set for Udacity Programming For Data Science Using Python Nanodegree.
 Project 1
 Overview
 This project consisted in the exploration of a provided database movie rentals in which the student had to run SQL queries and build visualizations to showcase the output of the student's queries.
